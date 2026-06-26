@@ -1,0 +1,32 @@
+{
+  "pokemons": [
+    {
+      "nome": "Pikachu",
+      "tipo": "Elétrico",
+      "descricao": "Quando está com raiva, descarrega imediatamente a energia armazenada nas bolsas de suas bochechas.",
+      "numero": "025",
+      "imagem": "src/imagens/pikachu.gif"
+    },
+    {
+      "nome": "Bulbasaur",
+      "tipo": "Grama/Venenoso",
+      "descricao": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce.",
+      "numero": "001",
+      "imagem": "src/imagens/bulbasaur.gif"
+    },
+    {
+      "nome": "Charmander",
+      "tipo": "Fogo",
+      "descricao": "Tem preferência por coisas quentes. Quando chove, diz-se que o vapor jorra da ponta de sua cauda.",
+      "numero": "004",
+      "imagem": "src/imagens/charmander.gif"
+    },
+    {
+      "nome": "Squirtle",
+      "tipo": "Água",
+      "descricao": "Quando retrai seu longo pescoço em sua concha, ele esguicha água com força vigorosa.",
+      "numero": "007",
+      "imagem": "src/imagens/squirtle.gif"
+    }
+  ]
+}
